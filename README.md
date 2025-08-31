@@ -2,7 +2,7 @@
 
 ## [Simple ReAct Function Call](https://github.com/weifhu0124/LangGraph/tree/main/react_function_call)
 
-A simple app that scrapes the linkedin data of a user and return summary and fun facts about them.
+A simple ReAct agent that uses web search and Python function as tools.
 
 | Component | Technology | Description |
 |-----------|------------|-------------|
@@ -12,4 +12,4 @@ A simple app that scrapes the linkedin data of a user and return summary and fun
 | 📊 **Monitoring** | LangSmith | Optional tracing and debugging |
 | 🐍 **Backend** | Python 3.12+ | Core application logic |
 
-<img src="https://github.com/weifhu0124/LangGraph/blob/6417ecea3a7a9378045c656272e67ff85be3c41d/react_function_call/flow.png" width=50% height=50%>
+<img src="https://github.com/weifhu0124/LangGraph/blob/6417ecea3a7a9378045c656272e67ff85be3c41d/react_function_call/flow.png" width=50% height=25%>
